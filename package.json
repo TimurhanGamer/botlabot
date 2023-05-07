@@ -21,7 +21,7 @@
     "figlet": "^1.2.4",
     "generate-password": "^1.4.1",
     "get-youtube-id": "^1.0.1",
-    "jimp": "^0.9.3",
+    "jimp": "^0.22.7",
     "math-expression-evaluator": "^1.2.17",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.2.2",
